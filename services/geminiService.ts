@@ -136,9 +136,9 @@ const RESPONSE_SCHEMA: Schema = {
 
 // Fallback models theo thứ tự ưu tiên
 const FALLBACK_MODELS = [
-  'gemini-2.5-flash-preview-04-17',
-  'gemini-2.5-pro-preview-05-06',
-  'gemini-2.0-flash'
+  'gemini-3-flash-preview',
+  'gemini-3-pro-preview',
+  'gemini-2.5-flash'
 ];
 
 // Helper để lấy API key từ localStorage
