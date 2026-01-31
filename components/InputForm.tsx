@@ -91,7 +91,6 @@ Qua áp dụng sáng kiến, chất lượng môn Lịch sử lớp 5A đã đư
               onChange={handleChange}
               placeholder="Ví dụ: Một số biện pháp giúp học sinh..."
               className="w-full px-4 py-3 rounded-lg border border-gray-300 focus:ring-2 focus:ring-blue-500 focus:border-blue-500 transition-all"
-              required
             />
           </div>
 
@@ -126,7 +125,6 @@ Qua áp dụng sáng kiến, chất lượng môn Lịch sử lớp 5A đã đư
               onChange={handleChange}
               placeholder="VD: Toán, Ngữ Văn, Quản lý..."
               className="w-full px-4 py-3 rounded-lg border border-gray-300 focus:ring-2 focus:ring-blue-500 focus:border-blue-500 transition-all"
-              required
             />
           </div>
 
