@@ -9,9 +9,9 @@ interface ApiKeyModalProps {
 }
 
 const MODELS = [
-    { id: 'gemini-2.5-flash-preview-04-17', name: 'Gemini 2.5 Flash', description: 'Nhanh và hiệu quả', default: true },
-    { id: 'gemini-2.5-pro-preview-05-06', name: 'Gemini 2.5 Pro', description: 'Mạnh mẽ và chi tiết' },
-    { id: 'gemini-2.0-flash', name: 'Gemini 2.0 Flash', description: 'Ổn định và đáng tin cậy' },
+    { id: 'gemini-3-flash-preview', name: 'Gemini 3 Flash', description: 'Nhanh và hiệu quả', default: true },
+    { id: 'gemini-3-pro-preview', name: 'Gemini 3 Pro', description: 'Mạnh mẽ và chi tiết' },
+    { id: 'gemini-2.5-flash', name: 'Gemini 2.5 Flash', description: 'Ổn định và đáng tin cậy' },
 ];
 
 const API_KEY_STORAGE = 'skkn-gemini-api-key';
